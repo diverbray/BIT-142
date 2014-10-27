@@ -1,0 +1,5 @@
+C:\Users\Brandon\Documents\GitHub\BIT-142\PCE_04\bin\Debug\PCE_02.exe
+C:\Users\Brandon\Documents\GitHub\BIT-142\PCE_04\bin\Debug\PCE_02.pdb
+C:\Users\Brandon\Documents\GitHub\BIT-142\PCE_04\obj\Debug\PCE_04.csprojResolveAssemblyReference.cache
+C:\Users\Brandon\Documents\GitHub\BIT-142\PCE_04\obj\Debug\PCE_02.exe
+C:\Users\Brandon\Documents\GitHub\BIT-142\PCE_04\obj\Debug\PCE_02.pdb
